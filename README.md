@@ -1,4 +1,4 @@
 # pyselenium
 Python Selenium
 
-Learning how to test using Python + Selenium WebDriver
+Learning how to test using Python + Selenium WebDriver + PyTest
